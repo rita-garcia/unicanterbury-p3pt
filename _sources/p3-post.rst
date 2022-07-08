@@ -19,7 +19,7 @@ Problems
    :fromid: prestest_is_ascending_ac-post
    :points: 10
 
-.. selectquestion:: iwgex1-p3-post-sum67
+.. selectquestion:: iwgex1-p3-post-sum67-v2
    :fromid: sum67_fix
    :points: 10
 
