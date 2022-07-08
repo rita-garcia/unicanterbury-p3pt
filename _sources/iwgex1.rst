@@ -17,7 +17,7 @@ Problems
    :fromid: filter_words_less_than_3_chars, filter-strings-Parsons-Version-pilot
    :points: 10
 
-.. selectquestion:: iwgex1-p3-get-middle-sq
+.. selectquestion:: iwgex1-p3-get-middle-sq-v2
    :ab: iwgex1-python3
    :fromid: get-middle-ac, get-middle-Parsons-Version-pilot
    :points: 10
