@@ -20,7 +20,7 @@ Problems
    :points: 10
 
 .. selectquestion:: iwgex1-p3-post-sum67
-   :fromid: fuct_ac_ll_sum67_fix
+   :fromid: sum67_fix
    :points: 10
 
 .. selectquestion:: iwgex1-p3-post-get-city-state
@@ -36,4 +36,4 @@ Feedback
 
 Thank You
 ============================
-Thank you for taking part in this study!  We appreciate your time on this. 
+Thank you for taking part in this study!  We appreciate your time on this.

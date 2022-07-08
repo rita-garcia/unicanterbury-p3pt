@@ -19,7 +19,7 @@ Problems
 
 .. selectquestion:: iwgex1-p3-get-middle-sq
    :ab: iwgex1-python3
-   :fromid: get-middle, get-middle-Parsons-Version-pilot
+   :fromid: get-middle-ac, get-middle-Parsons-Version-pilot
    :points: 10
 
 .. selectquestion:: iwgex1-p3-sum13-sq
