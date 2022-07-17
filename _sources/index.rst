@@ -1,6 +1,6 @@
-=====================
-Python 3 Test
-=====================
+===========================================
+Python 3 with Lists and Dictionaries
+===========================================
 
 .. Here is were you specify the content and order of your new book.
 
@@ -13,26 +13,43 @@ Python 3 Test
 .. Sources can also be included from subfolders of this directory.
    (e.g. "DataStructures/queues.rst").
 
-SECTION 1: Introduction
+Study Information
 :::::::::::::::::::::::
 
 Thank you for taking part in this study! We are researchers who are trying
 to improve the teaching and learning of programming.
 
-This study has three parts.  It will take approximately one hour to 1.5 hours to complete
+This study has four parts.  It will take approximately 50 minutes to complete
 the study.  Please do the parts in order and answer questions to the best
-of your ablity without any outside help.
+of your ablity without any outside help. You can skip any question that you
+do not feel qualifed to answer or stop working on a question after you have worked on it for
+about five minutes without solving it.
 
-The three parts are:
+If you have quesitons about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
 
-- Introduction - to get you familiar with the types of problems in this study
-- Practice - five practice problems
-- Post Test - five post test problems
+The four parts are:
 
-.. toctree::
-   :numbered:
-   :maxdepth: 3
+- Pre Survey - Questions about your experience and confidence in computing
+- Introduction - Materials to get you familiar with the types of problems in this study
+- Practice - Practice problems
+- Post Test - Post test problems
 
-   intro.rst
-   iwgex1.rst
-   p3-post.rst
+Click on the link at the end of each page to get to the next part.
+
+What to do next
+============================
+.. raw:: html
+
+    <p>Click on the following link to take the pre survey : <b><a id="p3-survey"> <font size="+2">Pre Survey</font></a></b></p>
+
+.. raw:: html
+
+    <script type="text/javascript" >
+
+      window.onload = function() {
+
+        a = document.getElementById("p3-survey")
+        a.href = "p3-presurvey.html"
+      };
+
+    </script>

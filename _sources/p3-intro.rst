@@ -141,12 +141,36 @@ Finish writing the code for the following problem.
 Feedback
 ==================================
 
-.. shortanswer:: iticse-ex1-intro-sa-p3
+.. shortanswer:: p3-intro-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
+
 
 What to do next
 ============================
 
-Go on to the next page for practice. Click on the right arrow button
-on the bottom right side of the page.
+.. raw:: html
+
+    <p>Click on the following link to go the practice problems: <a id="p3-practice"><font size="+2">Practice</font></a></p>
+
+.. raw:: html
+
+    <script type="text/javascript" >
+
+      window.onload = function() {
+
+        a = document.getElementById("p3-practice")
+
+        // randomly pick one of two relative urls
+        var v = Math.floor(Math.random() * 9) + 1;
+        if (v % 2 == 0)
+        {
+              a.href = "p3-write.html"
+        }
+        else
+        {
+               a.href = "p3-parsons.html"
+        }
+
+        };
+    </script>

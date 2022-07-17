@@ -1,18 +1,20 @@
 Post Test
 -----------------------------------------------------
 
-Please try to solve each of the following problems. Do not use any outside
-resources.
+Please answer the following problems to the best
+of your ablity without any outside help. You can skip any question that you
+do not feel qualifed to answer or stop working on question after you worked on it for
+about five minutes without solving it.
 
 Problems
 ==============
 
-.. selectquestion:: iwgex1-p3-post-starts-with-c-ac
-   :fromid: funct_loops_writecode1q-post
-   :points: 10
-
 .. selectquestion:: iwgex1-p3-post-get-part-ac
    :fromid: get_part_ac
+   :points: 10
+
+.. selectquestion:: iwgex1-p3-post-get-city-state
+   :fromid: get-city-state
    :points: 10
 
 .. selectquestion:: iwgex1-p3-post-is-descending
@@ -23,14 +25,10 @@ Problems
    :fromid: sum67_fix
    :points: 10
 
-.. selectquestion:: iwgex1-p3-post-get-city-state
-   :fromid: get-city-state
-   :points: 10
-
 Feedback
 ==================================
 
-.. shortanswer:: iwgex1-p3-posttest-sa
+.. shortanswer:: p3-posttest-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
