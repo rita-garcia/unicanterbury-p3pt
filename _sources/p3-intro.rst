@@ -100,11 +100,11 @@ the code area for compiler errors and/or unit test results.
 
 See the video below for an example.
 
-.. youtube:: piPz0kh8gMk
-    :divid: iwgex1-code-p3
+.. youtube:: w9hTOJ7iJpE
+    :divid: p3-write-code-video-ex
     :optional:
-    :width: 650
-    :height: 415
+    :width: 425
+    :height: 344
     :align: center
 
 Finish writing the code for the following problem.

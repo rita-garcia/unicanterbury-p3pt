@@ -109,6 +109,13 @@ about the specified concept(s).
 
     Lists like <code>a = ["red", "green"]</code> and dictionaries like <code>d = {"red": 2, "green": 3}</code>
 
+Feedback
+==================================
+
+.. shortanswer:: p3-presurvey-sa
+
+   Please provide feedback here. Please share any comments, problems, or suggestions.
+
 What to do next
 ============================
 .. raw:: html
