@@ -109,32 +109,32 @@ See the video below for an example.
 
 Finish writing the code for the following problem.
 
-.. activecode:: intro-sample-write-code-p3
+.. activecode:: intro-sample-write-code-triple-p3
     :practice: T
     :autograde: unittest
 
-    Write a function called ``double(num)`` that takes a number ``num`` and
-    returns the number times 2. For example, ``double(2)`` should return 4 and
-    ``double(-1)`` should return -2.  Look below the code to check for any
+    Write a function called ``triple(num)`` that takes a number ``num`` and
+    returns the number times 3. For example, ``triple(2)`` should return 6 and
+    ``triple(-1)`` should return -3.  Look below the code to check for any
     compiler errors or the results
     from the test cases.  Be sure to ``return`` the result.
     ~~~~
-    def double(num):
+    def triple(num):
         # write code here
 
-    print(double(2))
-    print(double(-1))
+    print(triple(2))
+    print(triple(-1))
 
     ====
     from unittest.gui import TestCaseGui
     class myTests(TestCaseGui):
 
         def testOne(self):
-            self.assertEqual(double(2),4,"double(2)")
-            self.assertEqual(double(3),6,"double(3)")
-            self.assertEqual(double(-1),-2,"double(-1)")
-            self.assertEqual(double(0),0,"double(0)")
-            self.assertEqual(double(11),22,"double(11)")
+            self.assertEqual(triple(2),6,"triple(2)")
+            self.assertEqual(triple(3),9,"triple(3)")
+            self.assertEqual(triple(-1),-3,"triple(-1)")
+            self.assertEqual(triple(0),0,"triple(0)")
+            self.assertEqual(triple(11),33,"triple(11)")
 
     myTests().main()
 
@@ -151,7 +151,7 @@ What to do next
 
 .. raw:: html
 
-    <p>Click on the following link to go the practice problems: <a id="p3-practice"><font size="+2">Practice</font></a></p>
+    <p>Click on the following link to go the practice problems: <a id="class-practice"><font size="+2">Practice</font></a></p>
 
 .. raw:: html
 
@@ -159,17 +159,17 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("p3-practice")
+        a = document.getElementById("class-practice")
 
         // randomly pick one of two relative urls
         var v = Math.floor(Math.random() * 9) + 1;
         if (v % 2 == 0)
         {
-              a.href = "p3-write.html"
+              a.href = "class-pwd.html"
         }
         else
         {
-               a.href = "p3-parsons.html"
+               a.href = "class-pnd.html"
         }
 
         };

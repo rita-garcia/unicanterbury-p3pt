@@ -21,11 +21,10 @@ to improve the teaching and learning of programming.
 
 This study has four parts.  It will take approximately 50 minutes to complete
 the study.  Please do the parts in order and answer questions to the best
-of your ablity without any outside help. You can skip any question that you
-do not feel qualifed to answer or stop working on a question after you have worked on it for
-about five minutes without solving it.
+of your ability without any outside help. You can stop working on a problem after you worked
+on it for about five minutes without solving it.
 
-If you have quesitons about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
+If you have questions about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
 
 The four parts are:
 
