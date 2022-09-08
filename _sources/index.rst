@@ -1,6 +1,6 @@
-===========================================
-Python 3 with Lists and Dictionaries
-===========================================
+========================================================
+Python 3 with Lists, Loops, Conditionals, and Functions
+========================================================
 
 .. Here is were you specify the content and order of your new book.
 
