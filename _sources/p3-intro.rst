@@ -151,7 +151,7 @@ What to do next
 
 .. raw:: html
 
-    <p>Click on the following link to go the practice problems: <a id="class-practice"><font size="+2">Practice</font></a></p>
+    <p>Click on the following link to go the practice problems: <a id="p3pt-practice"><font size="+2">Practice Problems</font></a></p>
 
 .. raw:: html
 
@@ -159,17 +159,17 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("class-practice")
+        a = document.getElementById("p3pt-practice")
 
         // randomly pick one of two relative urls
         var v = Math.floor(Math.random() * 9) + 1;
         if (v % 2 == 0)
         {
-              a.href = "class-pwd.html"
+              a.href = "p3-parsons.html"
         }
         else
         {
-               a.href = "class-pnd.html"
+               a.href = "p3-write.html"
         }
 
         };
