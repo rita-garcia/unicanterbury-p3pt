@@ -1,4 +1,4 @@
-Introduction
+Introduction to Problem Types
 -----------------------------------------------------
 
 Please read the following, watch the videos, and try to solve the problems.
