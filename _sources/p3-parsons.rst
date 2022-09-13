@@ -13,8 +13,8 @@ Problems
    :fromid: get-middle-Parsons-Version-pilot
    :points: 10
 
-.. selectquestion:: p3-dict-to-list-parsons-sq
-   :fromid: dict_to_list_pp_pilot
+.. selectquestion:: p3-list-loop-two-lists-sq
+   :fromid: list_loop_two_lists_pp
    :points: 10
 
 .. selectquestion:: p3-has22-parsons-sq

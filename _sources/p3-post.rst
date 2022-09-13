@@ -9,12 +9,8 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. selectquestion:: iwgex1-p3-post-get-part-ac
-   :fromid: get_part_ac
-   :points: 10
-
-.. selectquestion:: iwgex1-p3-post-get-city-state
-   :fromid: get-city-state
+.. selectquestion:: iwgex1-p3-post-upper_center-ac
+   :fromid: upper_center
    :points: 10
 
 .. selectquestion:: iwgex1-p3-post-is-descending
@@ -23,6 +19,10 @@ Problems
 
 .. selectquestion:: iwgex1-p3-post-sum67-v2
    :fromid: sum67_fix
+   :points: 10
+
+.. selectquestion:: iwgex1-p3-lst_two_loop_post
+   :fromid: lst_two_loop_post
    :points: 10
 
 Feedback

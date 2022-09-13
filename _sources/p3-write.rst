@@ -13,8 +13,8 @@ Problems
    :fromid: get-middle-ac
    :points: 10
 
-.. selectquestion:: p3-dict-to-list-write-sq
-   :fromid: dict_to_list_pilot
+.. selectquestion:: p3-list-loop-two-lists-ac-sq
+   :fromid:  list_loop_two_lists_ac
    :points: 10
 
 .. selectquestion:: p3-has22-write-sq
