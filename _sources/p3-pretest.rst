@@ -13,7 +13,7 @@ Problems
    :points: 1
 
 .. selectquestion:: p3-pre-2
-   :fromid: prestest-type-compare
+   :fromid: pretest-type-compare
    :points: 1
 
 .. selectquestion:: p3-pre-3
