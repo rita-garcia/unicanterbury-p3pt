@@ -8,45 +8,51 @@ option E (I don't know).
 Problems
 ==============
 
-.. selectquestion:: p3-pre-1
-   :fromid: pretest_cond_with_funcs
-   :points: 1
+.. timed:: timed1
+   :timelimit: 20
+   :noresult:
+   :nofeedback:
+   :nopause:
 
-.. selectquestion:: p3-pre-2
-   :fromid: pretest-type-compare
-   :points: 1
+   .. selectquestion:: p3pt-pre-1
+      :fromid: pretest_cond_with_funcs
+      :points: 1
 
-.. selectquestion:: p3-pre-3
-   :fromid: pretest_list_cond_append
-   :points: 1
+   .. selectquestion:: p3pt-pre-2
+      :fromid: pretest-type-compare
+      :points: 1
 
-.. selectquestion:: p3-pre-4
-   :fromid: pretest_complex_list_string
-   :points: 1
+   .. selectquestion:: p3pt-pre-3
+      :fromid: pretest_list_cond_append
+      :points: 1
 
-.. selectquestion:: p3-pre-5
-   :fromid: pretest_sum_with_range
-   :points: 1
+   .. selectquestion:: p3pt-pre-4
+      :fromid: pretest_complex_list_string
+      :points: 1
 
-.. selectquestion:: p3-pre-6
-   :fromid: pretest_string_abbrev
-   :points: 1
+   .. selectquestion:: p3pt-pre-5
+      :fromid: pretest_sum_with_range
+      :points: 1
 
-.. selectquestion:: p3-pre-7
-   :fromid: pretest_sum_with_mod
-   :points: 1
+   .. selectquestion:: p3pt-pre-6
+      :fromid: pretest_string_abbrev
+      :points: 1
 
-.. selectquestion:: p3-pre-8
-   :fromid: pretest-while-str-concat
-   :points: 1
+   .. selectquestion:: p3pt-pre-7
+      :fromid: pretest_sum_with_mod
+      :points: 1
 
-.. selectquestion:: p3-pre-9
-   :fromid: pretest-break-cont-str-cont
-   :points: 1
+   .. selectquestion:: p3pt-pre-8
+      :fromid: pretest-while-str-concat
+      :points: 1
 
-.. selectquestion:: p3-pre-10
-   :fromid: pretest-string-slice-neg
-   :points: 1
+   .. selectquestion:: p3pt-pre-9
+      :fromid: pretest-break-cont-str-cont
+      :points: 1
+
+   .. selectquestion:: p3pt-pre-10
+      :fromid: pretest-string-slice-neg
+      :points: 1
 
 Feedback
 ==================================
