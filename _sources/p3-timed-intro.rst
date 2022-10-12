@@ -26,11 +26,13 @@ for that question will have a orange background if you click the "Flag Question"
       :answer_b: 4
       :answer_c: 7
       :answer_d: 7.0
+      :answer_e: I don't know
       :correct: c
       :feedback_a: Incorrect!  It will set x to 3 + 4.
       :feedback_b: Incorrect!  It will set x to 3 + 4.
       :feedback_c: It will set x to 3 + 4 = 7
       :feedback_d: Incorrect! It is adding integers so the result will be an integer
+      :feedback_e: No problem.
 
       What will the following code print?
 
@@ -45,11 +47,13 @@ for that question will have a orange background if you click the "Flag Question"
       :answer_b: Hi There
       :answer_c: HI there
       :answer_d: HI THERE
+      :answer_e: I don't know
       :correct: d
       :feedback_a: Incorrect!  It will print the string in uppercase.
       :feedback_b: Incorrect!  It will print the string in uppercase.
       :feedback_c: Incorrect!  It will print the string in uppercase.
       :feedback_d: Correct! It will print the sting in all uppercase letters.
+      :feedback_e: No problem.
 
       What will the following code print?
 
