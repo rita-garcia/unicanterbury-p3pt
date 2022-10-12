@@ -2,12 +2,17 @@ Introduction to the Timed Pretest
 -----------------------------------------------------
 
 The pretest is a timed test.  This means that you
-will see a countdown of the time on the top and then
-one question at a time with no feedback.  Use the arrow
-keys or number keys to move between questions.  When you
-have seen all the question a "Finish Exam" button will
-be displayed.  Click that button to end your exam, but
-only when you are done.
+will see how much time you have at the top and then a start button.
+Once you click the start button you will see the first question.
+Answer each question to the best of your ability.  You will not receive any
+feedback on the correctness of your answer.  Use the "Next"
+button to move to the next question.  You can also click the number buttons to
+move to that number question.  Once you have seen all of the
+questions a "Finish Exam" button will
+appear.  Click that button to end your exam, but
+only when you are done.  You can use the "Flag Question" button to highlight
+a question to remind yourself to come back to it later.  The number button
+for that question will have a orange background if you click the "Flag Question".
 
 .. timed:: timed_intro
    :timelimit: 5
