@@ -14,7 +14,7 @@ move to different questions, flag a question to remind yourself to review it lat
 and finish the exam.
 
 .. youtube:: CrydSpPplUQ
-    :divid: intro-timed-exam-p3tog
+    :divid: intro-timed-exam-p3pt
     :optional:
     :width: 650
     :align: center
@@ -24,8 +24,7 @@ Practice Timed Exam
 
 Click the start button to take the practice timed exam.
 
-
-.. timed:: timed_intro_p3tog
+.. timed:: timed_intro_p3pt
    :timelimit: 5
    :noresult:
    :nofeedback:
@@ -52,7 +51,7 @@ Click the start button to take the practice timed exam.
         x = 3 + 4
         print(x)
 
-   .. mchoice:: timed_intro_q2_str_upper_p3_tog
+   .. mchoice:: timed_intro_q2_str_upper_p3pt
       :practice: T
       :answer_a: hi there
       :answer_b: Hi There
@@ -77,7 +76,7 @@ Click the start button to take the practice timed exam.
 Feedback
 ==================================
 
-.. shortanswer:: p3tog-pre-timed-intro-sa
+.. shortanswer:: p3pt-pre-timed-intro-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
