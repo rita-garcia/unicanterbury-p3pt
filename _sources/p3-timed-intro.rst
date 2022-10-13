@@ -9,6 +9,17 @@ The pretest is a timed test.
 * Once you have seen all of the questions a "Finish Exam" button will appear.  Click that button to end your exam, but only when you are done.
 * Use the "Flag Question" button to highlight a question to remind yourself to come back to it later.  The number button for that question will have a orange background if you click "Flag Question".
 
+See the video below for detailed instructions on how to start a timed exam,
+move to different questions, flag a question to remind yourself to review it later,
+and finish the exam.
+
+.. youtube:: CrydSpPplUQ
+    :divid: intro-timed-exam-v1
+    :optional:
+    :width: 650
+    :align: center
+
+
 .. timed:: timed_intro
    :timelimit: 5
    :noresult:
