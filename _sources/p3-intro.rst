@@ -103,7 +103,8 @@ See the video below for an example.
 .. youtube:: w9hTOJ7iJpE
     :divid: p3-write-code-video-ex
     :optional:
-    :width: 650
+    :width: 1020
+    :height: 826
     :align: center
 
 Finish writing the code for the following problem.
