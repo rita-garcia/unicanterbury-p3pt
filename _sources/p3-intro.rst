@@ -153,24 +153,54 @@ What to do next
 
     <p>Click on the following link to go the practice problems: <a id="p3pt-practice"><font size="+2">Practice Problems</font></a></p>
 
+
 .. raw:: html
 
-    <script type="text/javascript" >
+   <script type="text/javascript">
 
-      window.onload = function() {
+     function getCookie(cname) {
+        let name = cname + "=";
+        let decodedCookie = decodeURIComponent(document.cookie);
+        let ca = decodedCookie.split(';');
+        for(let i = 0; i <ca.length; i++) {
+           let c = ca[i];
+           while (c.charAt(0) == ' ') {
+              c = c.substring(1);
+           }
+           if (c.indexOf(name) == 0) {
+              return c.substring(name.length, c.length);
+           }
+        }
+        return "";
+     }
+
+     function setCookie(cname, cvalue) {
+        document.cookie = cname + "=" + cvalue + ";";
+     }
+
+     window.onload = function() {
 
         a = document.getElementById("p3pt-practice")
 
-        // randomly pick one of two relative urls
-        var v = Math.floor(Math.random() * 9) + 1;
-        if (v % 2 == 0)
-        {
-              a.href = "p3-parsons.html"
-        }
-        else
-        {
-               a.href = "p3-write.html"
+        // get prev set cookie
+        var EXP_COOKIE = 'p3pt-parsons-or-write'
+        var cond = getCookie(EXP_COOKIE);
+
+        // if no prev set cookie: generate random condition and set cookie
+        if (cond != 'wh' && cond != 'nh') {
+           var v = Math.floor(Math.random() * 2);
+           if (v < 1) {
+               cond = 'p';
+           } else {
+               cond = 'w';
+           }
+           setCookie(EXP_COOKIE, cond);
         }
 
-        };
-    </script>
+        if (cond == 'p') {
+           a.href = "p3-parsons.html"
+        } else if (cond == 'w') {
+           a.href = "p3-write.html"
+        }
+     };
+   </script>
