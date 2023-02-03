@@ -187,7 +187,7 @@ What to do next
         var cond = getCookie(EXP_COOKIE);
 
         // if no prev set cookie: generate random condition and set cookie
-        if (cond != 'wh' && cond != 'nh') {
+        if (cond != 'p' && cond != 'w') {
            var v = Math.floor(Math.random() * 2);
            if (v < 1) {
                cond = 'p';
