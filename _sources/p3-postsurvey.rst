@@ -24,7 +24,8 @@ Please answer the following questions.
 
 .. shortanswer:: p3pt-post-5-dis
 
-   Please list any learning issues we should be aware of like Dyslexia, Autism, ADHD, etc or enter none.
+   Please list any neurodiversities we should be aware of, such as Dyslexia, Autism, or ADHD. Otherwise, please enter "non
+e" or "choose not to answer".
 
 .. shortanswer:: p3pt-post-6-hours
 

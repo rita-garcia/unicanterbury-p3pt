@@ -5,6 +5,16 @@ Please answer the following questions.
 
 ==============
 
+.. poll:: p3-consent
+    :option_1: I consent
+
+    By clicking this checkbox, I am agreeing to participate in this study.
+
+.. poll:: p3-consent-copy-research
+    :option_1: Please send me copy of the research
+
+    You may request a copy of any research from this project to be sent to you.
+
 .. poll:: p3-CS-self-efficacy-1
     :option_1: Strongly disagree
     :option_2: Disagree
