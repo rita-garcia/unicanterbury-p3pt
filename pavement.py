@@ -16,7 +16,7 @@ sys.path.append(os.getcwd())
 
 home_dir = os.getcwd()
 
-project_name = "p3pt"
+project_name = "uc-p3pt"
 
 #master_url = None
 #if master_url is None:
